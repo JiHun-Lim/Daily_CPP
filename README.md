@@ -1,2 +1,2 @@
-# Daily_C-
+# Daily_C++
 Daily C++ Language Practice
